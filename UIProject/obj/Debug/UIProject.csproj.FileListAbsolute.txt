@@ -1,0 +1,10 @@
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\bin\Debug\UIProject.exe.config
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\bin\Debug\UIProject.exe
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\bin\Debug\UIProject.pdb
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.csproj.AssemblyReference.cache
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.Properties.Resources.resources
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.csproj.GenerateResource.cache
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.csproj.CoreCompileInputs.cache
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.exe
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.pdb
+C:\Users\madhu\OneDrive\Desktop\C# applications\UIProject\UIProject\obj\Debug\UIProject.EvaluateString.resources

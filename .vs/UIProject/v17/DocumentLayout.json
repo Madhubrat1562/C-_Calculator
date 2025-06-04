@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|c:\\users\\madhu\\onedrive\\desktop\\c# applications\\uiproject\\uiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|solutionrelative:uiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|c:\\users\\madhu\\onedrive\\desktop\\c# applications\\uiproject\\uiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|solutionrelative:uiproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|c:\\users\\madhu\\onedrive\\desktop\\c# applications\\uiproject\\uiproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|solutionrelative:uiproject\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|c:\\users\\madhu\\onedrive\\desktop\\c# applications\\uiproject\\uiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9A4CA87-5992-44E5-8584-91C68093BC7F}|UIProject\\UIProject.csproj|solutionrelative:uiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UIProject\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.Designer.cs",
+              "RelativeToolTip": "UIProject\\Form1.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwJMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:53:14.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.cs",
+              "RelativeDocumentMoniker": "UIProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.cs",
+              "RelativeToolTip": "UIProject\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowGoBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:51:49.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Program.cs",
+              "RelativeDocumentMoniker": "UIProject\\Program.cs",
+              "ToolTip": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Program.cs",
+              "RelativeToolTip": "UIProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:51:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.cs",
+              "RelativeDocumentMoniker": "UIProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\madhu\\OneDrive\\Desktop\\C# applications\\UIProject\\UIProject\\Form1.cs [Design]",
+              "RelativeToolTip": "UIProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:51:31.65Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
